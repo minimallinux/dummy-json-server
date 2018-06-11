@@ -1,4 +1,8 @@
-# dummy-json-server
+# DUMMY JSON SERVER
+
+Simple PHP REST API with no framework.
+
+## Quick Start
 
 Dummy json server to save creating a new one.
 
@@ -15,3 +19,21 @@ http://localhost:3000/users
 etc.
 
 Change db1.json to another one using https://www.mockaroo.com/
+
+
+## App Info
+
+### Author
+
+P A McGowan
+
+https://webmobapps.com
+https://minimallinux.tk
+
+### Version
+
+1.0.0
+
+### License
+
+This project is licensed under the MIT License
